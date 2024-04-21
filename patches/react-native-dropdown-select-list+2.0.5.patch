@@ -1,0 +1,68 @@
+diff --git a/node_modules/react-native-dropdown-select-list/components/SelectList.tsx b/node_modules/react-native-dropdown-select-list/components/SelectList.tsx
+index 234a7e1..49417b3 100644
+--- a/node_modules/react-native-dropdown-select-list/components/SelectList.tsx
++++ b/node_modules/react-native-dropdown-select-list/components/SelectList.tsx
+@@ -36,9 +36,10 @@ const SelectList: React.FC<SelectListProps> =  ({
+         disabledTextStyles,
+         onSelect = () => {},
+         save = 'key',
++        onDropdownChange=(state)=>{},
+         dropdownShown = false,
+         fontFamily
+-    }) => {
++    },ref) => {
+ 
+     const oldOption = React.useRef(null)
+     const [_firstRender,_setFirstRender] = React.useState<boolean>(true);
+@@ -59,7 +60,6 @@ const SelectList: React.FC<SelectListProps> =  ({
+         }).start()
+     }
+     const slideup = () => {
+-        
+         Animated.timing(animatedvalue,{
+             toValue:0,
+             duration:500,
+@@ -104,7 +104,10 @@ const SelectList: React.FC<SelectListProps> =  ({
+         
+     },[defaultOption])
+ 
++    React.useEffect(()=>{onDropdownChange(dropdown)},[dropdown])
++
+     React.useEffect(() => {
++        
+         if(!_firstRender){
+             if(dropdownShown)
+                 slidedown();
+@@ -146,7 +149,7 @@ const SelectList: React.FC<SelectListProps> =  ({
+                                     });
+                                     setFilteredData(result)
+                                 }}
+-                                style={[{padding:0,height:20,flex:1,fontFamily},inputStyles]}
++                                style={[{padding:0,height:20,flex:1,fontFamily,alignSelf:'center'},inputStyles]}
+                             />
+                                 <TouchableOpacity onPress={() => slideup()} >
+ 
+@@ -190,7 +193,7 @@ const SelectList: React.FC<SelectListProps> =  ({
+                 (dropdown)
+                 ?
+                     <Animated.View style={[{maxHeight:animatedvalue},styles.dropdown,dropdownStyles]}>
+-                        <ScrollView  contentContainerStyle={{paddingVertical:10,overflow:'hidden'}} nestedScrollEnabled={true}>
++                        <ScrollView  contentContainerStyle={{paddingVertical:0,overflow:'hidden'}} nestedScrollEnabled={true}>
+ 
+                             {
+                                 (filtereddata.length >=  1)
+diff --git a/node_modules/react-native-dropdown-select-list/index.d.ts b/node_modules/react-native-dropdown-select-list/index.d.ts
+index cee3ba0..67179d5 100644
+--- a/node_modules/react-native-dropdown-select-list/index.d.ts
++++ b/node_modules/react-native-dropdown-select-list/index.d.ts
+@@ -77,6 +77,10 @@ export interface SelectListProps  {
+     * Trigger an action when option is selected
+     */
+     onSelect?: () => void,
++    /**
++    * Trigger an action when option is selected
++    */
++    onDropdownChange?: () => void,
+ 
+     /**
+     * set fontFamily of whole component Text 

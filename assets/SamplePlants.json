@@ -1,0 +1,710 @@
+[
+  {
+    "name": "Aloe Vera",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Golden Pothos",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Snake Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Moth Orchid",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Peace Lily",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Basil",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "African Violet",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Jade Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Spider Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Rubber Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Dumb Cane Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Monstera Deliciosa",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Rosemary",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Umbrella Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Money Tree",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Lucky Bamboo",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "English Ivy",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "ZZ Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Boston Fern",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Areca Palms",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Fiddle Leaf Fig",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Pilea",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Bromeliads",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Dragon Tree",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "String of Pearls",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Croton",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Chinese Evergreen",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Ponytail Palm",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Oyster Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Kalanchoe",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Jasmine Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Heartleaf Philodendron",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Cactus",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Silver Leaf Philodendron",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Polka Dot Begonia",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Black Velvet Alocasia",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Bird's Nest Anthurium",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Ficus Audrey",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Homalomena Selby",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Sweetheart Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Silver Dollar Vine",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Inchplant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Guiana Chestnut",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Banana Leaf Fig",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Peacock Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Purple Shamrock",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Variegated Wax Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Maidenhair Fern",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Paddle Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Prayer Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Clivia",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Baby Jade Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Variegated Arrowhead Vine",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Christmas Cactus",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Swiss Cheese Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Weeping Fig",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Fiddle Leaf Fig Tree",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Hoya Tricolor",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Bunny Ear Cactus",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Variegated Cast Iron Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Parlor Palm",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Zebra Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Emerald Ripple Peperomia",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Chinese Money Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Anthurium",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Coffee",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Dracaena Warneckii",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Cast Iron Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Red Aglaonema",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Gerbera Daisy",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Chinese Croton",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Aralia",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Boat Lily",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Umbrella Tree",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Ming Aralia",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Aralia Fabian",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Air Plants",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Barrel Cactus",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Orchid",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Lipstick Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Grape Ivy",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Bird of Paradise",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Eucalyptus",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Swedish Ivy",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Burro�s Tail",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Elephant�s Ear Kalanchoe",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Norfolk Island Pine",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Corn Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Sweet Basil",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Geranium",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Ti Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Variegated Dwarf Umbrella Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Crown of Thorns",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "African Milk Tree",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Homalomena",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "String of Bananas",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "String of Turtles",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Poinsettia",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Cyclamen",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Urn Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Sword Fern",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Never-Never Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Lemon Lime Philodendron",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Song of India",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Creeping Fig",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Moon Valley Friendship Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Impatiens",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Micans Philodendron",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Burle Marx Philodendron",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Horsetail Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Baby Rubber Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Lemon Tree",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Nerve Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Polka Dot Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Jessenia Pothos",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Manjula Pothos",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Creeping Inch Plant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  },
+  {
+    "name": "Baby Rubberplant",
+    "frequencyFrom": 5,
+    "frequencyTo": 10,
+    "insolation": "BRIGHT"
+  }
+]

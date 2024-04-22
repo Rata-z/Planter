@@ -31,11 +31,20 @@ Planter is a mobile planner designed to help users manage plant care. It's main 
 
 ## Key Features
 #### User Authorization
+<img src="assets/login.gif" alt="Authorization process" width="200"/>  
 Users can register and log in using their email address and password, with an additional layer of security provided by email verification.
 Alternatively, users can also sign in using their Google account.
 
 #### Plant Management
-Users can add, edit and delete plants from their collection.
+<img src="assets/adding1.gif" alt="Adding plant process" width="200"/>  <img src="assets/adding2.gif" alt="Adding plant process" width="200"/>
+<img src="assets/delete.gif" alt="Deletion plant process" width="200"/>  
+Users can add, edit and delete plants from their collection.  
+
+#### Plant Watering Tracker
+<img src="assets/watering.gif" alt="Watering plant process" width="200"/>  
+When users add a new plant to their collection, or edit an existing one, they have the ability to customize the range of days between watering sessions. After each watering session, the system dynamically calculates and updates the next watering date.  
+
+On the scheduled watering day, the application generates a local notification to remind users of the task.  
 
 #### Database Synchronization
 User's changes to their plant collection are transferred to a cloud-based database. Upon logging in, the user's plant collection is synchronized with the current state of the database, ensuring consistency across all devices.
@@ -43,12 +52,12 @@ User's changes to their plant collection are transferred to a cloud-based databa
 ## Building the Application Locally
 Please note that the code included in this repository is for presentation purposes only. While it provides a glimpse into the structure and logic of the application, it may not be fully functional or up to date with the latest features.
 
-#### Android and IOS configuration
+#### Android and iOS configuration
 To set up the app for local development, it's crucial to install native packages and configure dependencies to ensure proper functioning and cross-platform compatibility.
 It is also recommended to use the latest version of Node.js.
 
 #### Synchronizing with Firebase/Firestore
-To ensure the application works as intended, you'll need to synchronize the project with your own Firebase/Firestore instance. This involves creating a Firebase project, configuring Firebase services, and linking project to the Firebase.
+To ensure the application works as intended, you'll need to synchronize the project with your own Firebase/Firestore instance. This involves creating a Firebase project, configuring Firebase services, and linking the project to Firebase.
 
 ## Future Updates
 #### Testing with Jest

@@ -1,5 +1,10 @@
-# Planter
-## Table of Contents
+<div align="center">
+  <img src="assets/icons/logo.svg" alt="Logo" />
+  <h1> Planter </h1>
+</div>
+
+
+### Table of Contents
 * [Intro](#intro)
 * [Tech Stack](#tech-stack)
 * [Key Features](#key-features)

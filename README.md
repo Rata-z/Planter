@@ -12,7 +12,7 @@
 * [Future Updates](#future-updates)
 
 ## Intro
-Planter is a mobile planner designed to help users manage plant care. It's main purpose is to monitor watering frequency and quantity through a system of notifications and intuitive trackers, as well as provide guidance about other plant care parameters such as plant insolation.
+Planter is a mobile planner application designed to help users manage plant care. It's main purpose is to monitor watering frequency and quantity through a system of notifications and intuitive trackers, as well as provide guidance about other plant care parameters such as plant insolation.
 
 ## Tech Stack
 | Library                                    | Version    | Category          |

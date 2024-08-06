@@ -8,8 +8,6 @@
 * [Intro](#intro)
 * [Tech Stack](#tech-stack)
 * [Key Features](#key-features)
-* [Building the Application Locally](#building-the-application-locally)
-* [Future Updates](#future-updates)
 
 ## Intro
 Planter is a mobile planner application designed to help users manage plant care. It's main purpose is to monitor watering frequency and quantity through a system of notifications and intuitive trackers, as well as provide guidance about other plant care parameters such as plant insolation.
@@ -54,23 +52,5 @@ On the scheduled watering day, the application generates a local notification to
 #### Database Synchronization
 User's changes to their plant collection are transferred to a cloud-based database. Upon logging in, the user's plant collection is synchronized with the current state of the database, ensuring consistency across all devices.
 
-## Building the Application Locally
-Please note that the code included in this repository is for presentation purposes only. While it provides a glimpse into the structure and logic of the application, it may not be fully functional or up to date with the latest features.
 
-#### Android and iOS configuration
-To set up the app for local development, it's crucial to install native packages and configure dependencies to ensure proper functioning and cross-platform compatibility.
-It is also recommended to use the latest version of Node.js.
-
-#### Synchronizing with Firebase/Firestore
-To ensure the application works as intended, you'll need to synchronize the project with your own Firebase/Firestore instance. This involves creating a Firebase project, configuring Firebase services, and linking the project to Firebase.
-
-## Future Updates
-#### Testing with Jest
-Planter is currently in the process of implementing thorough testing using Jest to guarantee a stable and bug-free application.
-
-#### User Profile Settings
-Implementing settings that will allow the user to adjust profile preferences and manage account details.
-
-#### Calendar Screen
-Implementing calendar that will allow the user to keep track of watering schedules.
 

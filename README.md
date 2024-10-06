@@ -12,6 +12,8 @@
 ## Intro
 Planter is a mobile planner application designed to help users manage plant care. It's main purpose is to monitor watering frequency and quantity through a system of notifications and intuitive trackers, as well as provide guidance about other plant care parameters such as plant insolation.
 
+<img src="assets/homeScreen.png" alt="Home Screen" width="200"/>
+
 ## Tech Stack
 | Library                                    | Version    | Category          |
 |--------------------------------------------|------------|-------------------|
